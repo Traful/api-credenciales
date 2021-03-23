@@ -10,7 +10,7 @@ Api-rest desarrollada para el proyecto de [Credenciales](https://github.com/Traf
 
 Una API bastante sencilla utilizando el framework Slim en su versión 3.
 
-Base de datos tipo relacional MySQL - ver [credenciales.sql](https://github.com/Traful/api-credenciales/credenciales.sql).
+Base de datos tipo relacional MySQL - ver [credenciales.sql](https://github.com/Traful/api-credenciales/blob/main/credenciales.sql).
 
 Implemetación de seguridad tipo JWT.
 
